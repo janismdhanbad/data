@@ -7,6 +7,7 @@ just import the python file scrapper_internshala.py
 initialise the class with
 
 i = scrape()
+
 i.internshala("https://internshala.com/internships/data%20science-internship/page-1")
 
 This will make a file called internship.csv which has all the internships. There is also an ipynb for understanding the code.
